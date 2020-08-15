@@ -1,0 +1,27 @@
+{
+  "cwd": "C:\\Users\\Hp\\Desktop\\denebabam\\framwrok7den",
+  "type": [
+    "web",
+    "pwa"
+  ],
+  "name": "gaziefe",
+  "framework": "svelte",
+  "template": "tabs",
+  "bundler": "webpack",
+  "cssPreProcessor": "less",
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": true,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false,
+  "webpack": {
+    "developmentSourceMap": true,
+    "productionSourceMap": true,
+    "hashAssets": false,
+    "preserveAssetsPaths": false,
+    "inlineAssets": true
+  }
+}
